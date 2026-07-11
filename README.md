@@ -11,3 +11,4 @@ Cada carpeta corresponde a un proyecto o conjunto de ejercicios sobre un tema co
 ## Ejercicios
 - Ejercicio 1 - Gestión de notas
 - Ejercicio 2 - Menú Calculadora
+- Ejercicio 3 - Estadisticas del Array
