@@ -20,3 +20,4 @@ Programa que almacena números en un array y obtiene estadísticas como suma, me
 
 - Ejercicio 4 - Gestión de palabras
 Programa que almacena palabras en un array, muestra su longitud, cuenta las palabras con más de cinco caracteres e identifica la palabra más larga.
+
