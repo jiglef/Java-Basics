@@ -8,7 +8,8 @@ El objetivo de este repositorio es **afianzar los conocimientos adquiridos**, pr
 
 Cada carpeta corresponde a un proyecto o conjunto de ejercicios sobre un tema concreto.
 
-## Ejercicios
+## Ejercicios - Bloque I
+
 - Ejercicio 1 - Gestión de notas
 Programa que solicita las notas de varios alumnos y calcula el número de aprobados, suspensos, la nota media, la nota más alta y la más baja.
 
@@ -20,4 +21,7 @@ Programa que almacena números en un array y obtiene estadísticas como suma, me
 
 - Ejercicio 4 - Gestión de palabras
 Programa que almacena palabras en un array, muestra su longitud, cuenta las palabras con más de cinco caracteres e identifica la palabra más larga.
+
+- Ejercicio 5 - Gestión de alumnos
+Programa orientado a objetos que permite registrar alumnos con su nombre, edad y nota final, mostrar sus datos, calcular el número total de aprobados e identificar al alumno con la nota más alta.
 
