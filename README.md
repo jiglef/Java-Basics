@@ -25,3 +25,5 @@ Programa que almacena palabras en un array, muestra su longitud, cuenta las pala
 - Ejercicio 5 - Gestión de alumnos
 Programa orientado a objetos que permite registrar alumnos con su nombre, edad y nota final, mostrar sus datos, calcular el número total de aprobados e identificar al alumno con la nota más alta.
 
+- Ejercicio 6 - Gestión de animales
+Programa que gestiona distintos tipos de animales mediante herencia, mostrando sus datos y su comportamiento específico a través de la sobrescritura de métodos.
